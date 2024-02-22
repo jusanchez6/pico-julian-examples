@@ -1,0 +1,3 @@
+/home/julian/pico/pico-projects/gpio_blink/build/pioasm/CMakeFiles/pioasm.dir
+/home/julian/pico/pico-projects/gpio_blink/build/pioasm/CMakeFiles/edit_cache.dir
+/home/julian/pico/pico-projects/gpio_blink/build/pioasm/CMakeFiles/rebuild_cache.dir
